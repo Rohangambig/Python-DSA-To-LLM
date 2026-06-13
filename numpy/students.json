@@ -1,0 +1,102 @@
+[
+    {
+        "StudentID": 1,
+        "Name": "Rohan",
+        "Age": 21,
+        "Gender": "Male",
+        "Department": "CSE",
+        "Marks": 90,
+        "Attendance": 95,
+        "City": "Bangalore"
+    },
+    {
+        "StudentID": 2,
+        "Name": "John",
+        "Age": 22,
+        "Gender": "Male",
+        "Department": "ECE",
+        "Marks": 85,
+        "Attendance": 88,
+        "City": "Mumbai"
+    },
+    {
+        "StudentID": 3,
+        "Name": "Alice",
+        "Age": 20,
+        "Gender": "Female",
+        "Department": "ME",
+        "Marks": 95,
+        "Attendance": 92,
+        "City": "Delhi"
+    },
+    {
+        "StudentID": 4,
+        "Name": "Bob",
+        "Age": 23,
+        "Gender": "Male",
+        "Department": "CSE",
+        "Marks": 78,
+        "Attendance": 85,
+        "City": "Chennai"
+    },
+    {
+        "StudentID": 5,
+        "Name": "Emma",
+        "Age": 21,
+        "Gender": "Female",
+        "Department": "ECE",
+        "Marks": 88,
+        "Attendance": 90,
+        "City": "Hyderabad"
+    },
+    {
+        "StudentID": 6,
+        "Name": "David",
+        "Age": 22,
+        "Gender": "Male",
+        "Department": "CSE",
+        "Marks": 92,
+        "Attendance": 97,
+        "City": "Pune"
+    },
+    {
+        "StudentID": 7,
+        "Name": "Sophia",
+        "Age": 20,
+        "Gender": "Female",
+        "Department": "ME",
+        "Marks": 81,
+        "Attendance": 89,
+        "City": "Kolkata"
+    },
+    {
+        "StudentID": 8,
+        "Name": "Liam",
+        "Age": 21,
+        "Gender": "Male",
+        "Department": "CSE",
+        "Marks": 87,
+        "Attendance": 93,
+        "City": "Bangalore"
+    },
+    {
+        "StudentID": 9,
+        "Name": "Olivia",
+        "Age": 22,
+        "Gender": "Female",
+        "Department": "ECE",
+        "Marks": 94,
+        "Attendance": 96,
+        "City": "Mumbai"
+    },
+    {
+        "StudentID": 10,
+        "Name": "Noah",
+        "Age": 23,
+        "Gender": "Male",
+        "Department": "ME",
+        "Marks": 76,
+        "Attendance": 84,
+        "City": "Delhi"
+    }
+]
